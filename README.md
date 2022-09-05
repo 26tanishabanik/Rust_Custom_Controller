@@ -2,6 +2,11 @@
 
 This is a custom controller written in Rust, which just simply places a beverage order (Coffee/Tea) with a custom status.
 
+`kubectl list beverages`
+
+![alt text](https://github.com/26tanishabanik/Rust_Custom_Controller/blob/main/assets/kubectl_list_beverages.png?raw=true)
+
+
 `kubectl get beverages`
 
 ![alt text](https://github.com/26tanishabanik/Rust_Custom_Controller/blob/main/assets/kubectl_get_beverages.png?raw=true)
