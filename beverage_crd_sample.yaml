@@ -1,0 +1,7 @@
+apiVersion: kubeverage.tanisha.com/v1
+kind: Beverage
+metadata:
+  name: tanisha
+spec:
+  beveragename: Tea
+  beveragetype: Milk
